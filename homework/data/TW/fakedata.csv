@@ -1,0 +1,11 @@
+﻿member_id,postal_cd,date_cd,department,index,prod_id,goods,price,MSRP
+abc123,813,day10,3C,藍芽/耳機,11111111,Apple AirPods Pro (MWP22TA/A),7359,8000
+abc123,813,day11,3C,運動攝影機,11111112,GoPro HERO 8,15000,16000
+abc123,815,day12,Clothes,球鞋,11111113,Nike Jordan,6800,7500
+abc123,816,day13,3C,手機,11111114,iPhone 11,22900,24000
+abc127,817,day14,Clothes,服飾,11111115,Edwin jeans,1600,2000
+abc128,818,day15,Clothes,服飾,11111116,Levis T-short,990,1200
+abc128,818,day16,3C,電腦,11111117,ASUS VivoBook,21500,26900
+abc128,820,day17,Food,寵物,11111118,Cat Tree,1690,1990
+abc131,821,day18,Game,遊戲,11111119,Switch,9900,11000
+abc131,822,day19,Book,書籍,11111120,Too Much and Never Enough,450,500
